@@ -36,7 +36,8 @@
 |:---:|:---|
 | 사용 언어 | <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> |
 | 데이터 적재 | <img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/> |
-| Dashboard |  |
+| 데이터 분석 및 적재 | |  
+| Dashboard | Preset |
 | 협업 도구 | <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>|
 
 ### 2) 프로젝트 흐름
